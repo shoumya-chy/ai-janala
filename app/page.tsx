@@ -3,6 +3,7 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import ProblemSection from "@/components/ProblemSection";
+import ProofStrip from "@/components/ProofStrip";
 import SolutionSection from "@/components/SolutionSection";
 
 export default function Home() {
@@ -10,6 +11,7 @@ export default function Home() {
     <main>
       <Header />
       <DemoSection />
+      <ProofStrip />
       <Hero />
       <ProblemSection />
       <SolutionSection />
