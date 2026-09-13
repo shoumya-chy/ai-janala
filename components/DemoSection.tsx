@@ -1,9 +1,9 @@
 import ChatInterface from "@/components/ChatInterface";
 
 const EXAMPLE_QUESTIONS = [
-  "What is AI?",
-  "AI কী?",
-  "How does AI affect my job?",
+  "I run a small shop, how can AI help my business?",
+  "আমি একজন ছাত্র, AI আমাকে পড়াশোনায় কীভাবে সাহায্য করতে পারে?",
+  "I work in a government office, will AI take my job?",
 ];
 
 export default function DemoSection() {
